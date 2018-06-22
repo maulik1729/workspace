@@ -5,4 +5,5 @@ export default fun()
 }
 
 export const p="hiii";
-dasjioaj
+dasjioajddasd
+console.log(2.0.2);
